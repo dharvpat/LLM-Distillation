@@ -1,4 +1,4 @@
-*Model Distillation*
+**Model Distillation**
 
 This repository contains a Jupyter Notebook that demonstrates the process of model distillation—a technique for compressing a large, complex model into a smaller, more efficient one without sacrificing much performance.
 
